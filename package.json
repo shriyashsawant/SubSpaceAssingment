@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "My Express JS Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node assingment"
+  },
+  "author": "Shri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
